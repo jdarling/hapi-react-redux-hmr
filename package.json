@@ -1,6 +1,6 @@
 {
   "name": "hapi-react-redux-hmr",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A boilerplate project with Hapi React Redux and Webpack with HMR in development mode",
   "main": "./bin/server",
   "scripts": {
