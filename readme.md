@@ -1,7 +1,9 @@
-HRRHMR Starter
+HRRHMR Starter v0.0.2
 ===
 
 A boilerplate project with Hapi React Redux and Webpack with HMR in development mode.
+
+*NOTE:* - For now, due to the fact that hapi-webpack-plugin doesn't surface the Webpack Dev Plugin I've had to put a patched version in the lib folder.  I will be submitting a PR to have the Dev Plugin surfaced to the hapi-webpack-plugin but until it gets integrated in this is the only way I can find to make this fully work.
 
 Built With:
 ---
