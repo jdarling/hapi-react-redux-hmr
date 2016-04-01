@@ -1,0 +1,6 @@
+node_modules/
+dist/
+coverage/
+test.sh
+npm-debug.log
+web/site/
