@@ -1,4 +1,4 @@
-HRRHMR Starter v0.0.2
+HRRHMR Starter v0.0.3
 ===
 
 A boilerplate project with Hapi React Redux and Webpack with HMR in development mode.
