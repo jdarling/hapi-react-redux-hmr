@@ -1,4 +1,4 @@
-HRRHMR Starter v0.0.3
+HRRHMR Starter v0.0.4
 ===
 
 A boilerplate project with Hapi React Redux and Webpack with HMR in development mode.
@@ -27,3 +27,14 @@ Getting started:
 * npm run dev
 * Load http://localhost:8080/
 * Open the ./web/src/pages/home.js file and make some changes, they will appear in your browser without a reload.
+
+TODO's
+===
+
+* Implement an example of using https://github.com/mjrussell/redux-auth-wrapper
+* Implement an example of JWT tokens on the backend
+* Implement a better example UI, maybe a better version of TODO (something with notes?)
+* Implement a backend API to show how to integrate Redux with API stores
+* Server side rendering?
+* Make it into something you can just drop in as a module to base projects on
+* Refactor to proper Presentational Components and Container Components

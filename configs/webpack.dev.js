@@ -15,7 +15,8 @@ module.exports = {
   output:  {
     path:          path.resolve(__dirname, "../web/site"),
     filename:      "app.js",
-    chunkFilename: "[name].[id].js"
+    chunkFilename: "[name].[id].js",
+    publicPath:    "/"
   },
   plugins: [
     new webpack.DefinePlugin({"process.env": {NODE_ENV: '"development"'}}),
